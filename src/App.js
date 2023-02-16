@@ -18,7 +18,7 @@ function App() {
   const [forecast, setForecast] = useState(null);
   const [cf,setCF] = useState(true);
   const [loc,setLoc] = useState({lon:null,lat:null});
-  const [preLoader, setPreLoader] = useState(false);
+  const [preLoader, setPreLoader] = useState(true);
 
 
   useEffect(() => {
