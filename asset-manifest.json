@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/WeatherApp/static/css/main.29e9f510.css",
+    "main.js": "/WeatherApp/static/js/main.898a95d9.js",
+    "static/js/787.b30f2593.chunk.js": "/WeatherApp/static/js/787.b30f2593.chunk.js",
+    "static/media/Gilroy-Medium.ttf": "/WeatherApp/static/media/Gilroy-Medium.f9f832b0ed3f1ab138c9.ttf",
+    "static/media/Gilroy-Regular.ttf": "/WeatherApp/static/media/Gilroy-Regular.b91b0127c56a8e5f9e83.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/WeatherApp/static/media/Gilroy-SemiBold.6780292641f883b3dad3.ttf",
+    "static/media/Gilroy-Bold.ttf": "/WeatherApp/static/media/Gilroy-Bold.b900325e44ec0c673e88.ttf",
+    "static/media/Gilroy-ExtraBold.ttf": "/WeatherApp/static/media/Gilroy-ExtraBold.0ac6879cd286550da903.ttf",
+    "static/media/map.png": "/WeatherApp/static/media/map.82056140ce3605dfbf34.png",
+    "index.html": "/WeatherApp/index.html",
+    "main.29e9f510.css.map": "/WeatherApp/static/css/main.29e9f510.css.map",
+    "main.898a95d9.js.map": "/WeatherApp/static/js/main.898a95d9.js.map",
+    "787.b30f2593.chunk.js.map": "/WeatherApp/static/js/787.b30f2593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e9f510.css",
+    "static/js/main.898a95d9.js"
+  ]
+}
