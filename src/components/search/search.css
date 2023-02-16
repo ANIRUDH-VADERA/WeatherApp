@@ -1,0 +1,115 @@
+
+.css-13cymwt-control{
+  width: 750px !important;
+}
+
+
+.css-t3ipsp-control{
+  width: 750px !important;
+}
+
+.css-1nmdiq5-menu{
+  width: 750px !important;
+}
+
+
+
+
+.css-13cymwt-control{
+    width: 100%;
+  background: #2b2b2b !important;
+  border-radius: 16px;
+  height: 52px;
+  padding-left: 16px;
+  margin-bottom: 12px;
+  font-family: GilroySemiBold;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.25px;
+  color: rgba(255, 255, 255, 0.95) !important;
+  border: none !important;
+  cursor: pointer !important;
+}
+
+.css-t3ipsp-control {
+    background: #383838 !important;
+    width: 100%;
+  border-radius: 16px;
+  height: 52px;
+  padding-left: 16px;
+  margin-bottom: 12px;
+  font-family: GilroySemiBold;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.25px;
+  outline: 2px solid rgba(255, 255, 255, 0.4) !important;
+
+}
+  
+.css-t3ipsp-control:hover{
+    cursor: pointer !important;
+    outline: 2px solid rgba(255, 255, 255, 0.4) !important;
+    border-color: rgba(255, 255, 255, 0.4) !important;
+}
+
+.css-t3ipsp-control:focus{
+    cursor: pointer !important;
+    outline: 2px solid rgba(255, 255, 255, 0.4) !important;
+    border-color: rgba(255, 255, 255, 0.4) !important;
+}
+
+.css-166bipr-Input{
+  color: rgba(255, 255, 255, 0.95) !important;  
+  cursor: pointer !important;
+}
+
+
+.css-1nmdiq5-menu{
+    width: 100%;
+  background: #2b2b2b !important;
+  border-radius: 16px;
+  padding-left: 16px;
+  margin-bottom: 10px;
+  font-family: GilroySemiBold;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.25px;
+  color: rgba(255, 255, 255, 0.95) !important;
+  border: none !important;
+  cursor: pointer !important;
+}
+
+.css-qbdosj-Input{
+  color: rgba(255, 255, 255, 0.95) !important;  
+  cursor: pointer !important;
+}
+
+.css-1dimb5e-singleValue{
+  color: rgba(255, 255, 255, 0.95) !important;  
+  cursor: pointer !important;
+}
+
+.css-1nmdiq5-menu >*{
+  background: #2b2b2b !important;
+  width: 100% !important;
+}
+
+.css-1nmdiq5-menu{
+  padding: 0 !important;
+}
+
+
+.css-1nmdiq5-menu >* :hover{
+  background-color: #1f1f1f  !important;
+}
